@@ -1,2 +1,3 @@
 # Ejemplo
 MiPagina
+Favorito
